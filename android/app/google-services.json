@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82211482161",
+    "project_id": "militryforce-ff2f2",
+    "storage_bucket": "militryforce-ff2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82211482161:android:4a7cf08013591bc64c4310",
+        "android_client_info": {
+          "package_name": "com.example.milieryforce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtS6Y7YBXSXvUIIB2DTb1Adq6XtjRGLG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
